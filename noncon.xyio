@@ -1,0 +1,8 @@
+{
+  x := 0;
+  if (x) write 7;
+  read x;
+  if (x) write 10;
+  x := 0;
+  if (x) write 10;
+}

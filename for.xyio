@@ -1,0 +1,10 @@
+{
+  print "Enter a start value";
+  read start;
+  print "Enter an end value"; 
+  read end;
+  print "Here are your numbers:";
+  for (i <- start .. end) {
+    write i;
+  }
+}

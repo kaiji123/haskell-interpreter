@@ -1,0 +1,10 @@
+  xopt <- optExpr xx
+    --let j= elimIdent(elimConst(xx))
+    
+    w <- optExs xs
+    if canEx (Op s (xopt:w))then
+        do
+            optimal <- optExpr (Op s (xopt:w))
+            pure optimal
+    else 
+        pure (Op s (xopt:w))

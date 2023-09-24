@@ -1,0 +1,16 @@
+{
+  x := 12;
+  y := x ;
+  z := o ;
+  
+  
+
+  if (y) 
+  {
+	if (x) {
+		z := y + 4 +x;
+	}
+  }
+
+  write (xxxxxxxxxx);
+}

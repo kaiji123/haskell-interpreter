@@ -1,0 +1,9 @@
+{
+  x := 14;
+  while (x / 2 > 9) {
+    write x;
+  }
+  for (i <- x .. 7) {
+    print "can you hear me?"; 
+  } 
+}

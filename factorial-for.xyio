@@ -1,0 +1,11 @@
+{
+print "           please input a number!@#$%^&*()78512<><><><<><><><";
+read x;
+y := 1; 
+for (i <- 1 .. x) { 
+  y := y * i; 
+} 
+print "its factorial is";
+write y;
+}
+

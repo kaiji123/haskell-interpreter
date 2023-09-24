@@ -1,0 +1,6 @@
+{ 
+  for (i <- 100 .. 1) { 
+    write i ; 
+  }
+  write i ; 
+}
