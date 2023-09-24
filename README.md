@@ -1,4 +1,4 @@
-Certainly! Here's an expanded description of your "haskell-interpreter" project:
+
 
 **haskell-interpreter**
 
